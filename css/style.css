@@ -5,3 +5,17 @@
 .textHeader {
     font-size: 17px;
 }
+
+.imgPrincipal {
+    background-image: url(/Imagenes/ba1.jpg);
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+    background-color: rgb(55, 55, 55);
+    background-blend-mode: soft-light;
+}
+
+/* .textImgPrincipal {
+    margin-top: 7em;
+    margin-right: 7em;
+} */
