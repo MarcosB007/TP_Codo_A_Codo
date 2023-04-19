@@ -8,10 +8,10 @@
 
 .imgPrincipal {
     background-image: url(/Imagenes/ba1.jpg);
-    height: 90vh;
+    height: 93vh;
     background-position: center;
     background-size: cover;
-    background-color: rgb(55, 55, 55);
+    background-color: rgb(51, 51, 51);
     background-blend-mode: soft-light;
 }
 
