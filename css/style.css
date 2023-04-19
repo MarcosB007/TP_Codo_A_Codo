@@ -28,3 +28,12 @@ h4 {
     font-size: 13px;
     color: rgb(107, 107, 107);
 }
+
+.bgFecha {
+    background-color: rgb(62, 62, 70);
+}
+
+.imagenLugar {
+    padding-left: 0px;
+    padding-right: 1px;
+}
