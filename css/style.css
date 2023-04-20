@@ -31,6 +31,7 @@ h4 {
 
 .bgFecha {
     background-color: rgb(62, 62, 70);
+    
 }
 
 .imagenLugar {
@@ -40,4 +41,10 @@ h4 {
 
 .letraPequeña {
     font-size: 13px;
+}
+
+@media screen and (max-width: 376px) {
+    .bgFecha {
+        background-color: transparent;
+    }
 }
