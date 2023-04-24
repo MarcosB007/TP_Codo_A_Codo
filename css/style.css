@@ -75,3 +75,7 @@ h5 {
 button[type="button"]:hover {
     background-color: rgb(120, 197, 5);
 }
+
+.subrayadoPunteado {
+    text-decoration-style: dotted;
+}
