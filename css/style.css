@@ -51,12 +51,17 @@ h5 {
     position: relative;
 }
 
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 769px) {
     .bgFecha {
         background-color: transparent;
     }    
     #pos {
         position: absolute;
+    }
+
+    .estilosFooter {
+        flex-direction: column;
+        align-items: center;
     }
 }
 
@@ -83,4 +88,14 @@ h5 {
 footer div a {
     color: white;
     text-decoration: none;
+}
+
+.estilosFooter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bgFooter {
+    background-color: rgb(35, 65, 97);
 }
