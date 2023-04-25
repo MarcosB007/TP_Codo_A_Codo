@@ -79,3 +79,8 @@ h5 {
 .subrayadoPunteado {
     text-decoration-style: dotted;
 }
+
+footer div a {
+    color: white;
+    text-decoration: none;
+}
