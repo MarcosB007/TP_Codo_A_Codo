@@ -51,7 +51,7 @@ h5 {
     position: relative;
 }
 
-@media screen and (max-width: 769px) {
+@media screen and (max-width: 376px) {
     .bgFecha {
         background-color: transparent;
     }    
