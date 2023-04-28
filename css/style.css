@@ -69,13 +69,30 @@ h5 {
     }
 }
 
-@media screen and (max-width: 426px) {
+@media screen and (max-width: 575px) {
     
     .estilosFooter {
         flex-direction: column;
         align-items: center;
     }
     
+    footer div a {
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    
+    .estilosFooter {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    footer div div div div {
+        display: flex;
+        justify-content: center;
+    }
+
     footer div a {
         margin-bottom: 10px;
     }
