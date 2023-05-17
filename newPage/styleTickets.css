@@ -5,3 +5,7 @@
 .colorHeader {
     background-color: rgb(64, 67, 73);
 }
+
+.header{
+    padding: .1em !important;
+}
