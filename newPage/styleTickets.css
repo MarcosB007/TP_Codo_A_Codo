@@ -9,3 +9,21 @@
 .header{
     padding: .1em !important;
 }
+
+.margenTarjetas {
+    margin-top: 5em;
+}
+
+.posicionTarjetas{
+    width: 16%;
+    padding: 1.3rem 0.7rem 1rem 0.7rem;
+    margin-right: 1rem;
+}
+
+.letraPequeña{
+    font-size: 12px;
+}
+
+.bordeDiv{
+    outline: 1px solid black;
+}
