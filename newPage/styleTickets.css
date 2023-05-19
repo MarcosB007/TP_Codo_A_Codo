@@ -15,15 +15,37 @@
 }
 
 .posicionTarjetas{
-    width: 16%;
+    width: 17%;
     padding: 1.3rem 0.7rem 1rem 0.7rem;
-    margin-right: 1rem;
+    margin-right: .5rem;
 }
 
 .letraPequeña{
-    font-size: 12px;
+    font-size: 13px;
+    color: grey;
 }
 
-.bordeDiv{
-    outline: 1px solid black;
+.estudiante{
+    outline: 2px solid rgb(30, 188, 245);
 }
+.trainee{
+    outline: 2px solid rgb(39, 210, 39);
+}
+.junior{
+    outline: 2px solid rgb(246, 188, 42);
+}
+
+#posDiv{
+    position: relative;
+    justify-content: center;
+}
+
+/* @media screen and (max-width: 379px){
+    
+    #posDiv{
+        align-items: center;
+        position: relative;
+        flex-direction: column;
+        
+    }
+} */
