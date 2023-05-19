@@ -40,12 +40,17 @@
     justify-content: center;
 }
 
-/* @media screen and (max-width: 379px){
+@media screen and (max-width: 379px){
     
     #posDiv{
         align-items: center;
         position: relative;
         flex-direction: column;
-        
     }
-} */
+
+    .posicionTarjetas{
+        width: 60%;
+        padding: 1.3rem 0.7rem 1rem 0.7rem;
+        margin-bottom: .5rem;
+    }
+}
