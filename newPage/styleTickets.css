@@ -11,7 +11,7 @@
 }
 
 .margenTarjetas {
-    margin-top: 5em;
+    margin-top: 7em;
 }
 
 .posicionTarjetas{
@@ -42,6 +42,11 @@
 .venta {
     font-size: 13px;
 }
+
+.letraDescuento{
+    font-size: 18px;
+}
+
 
 @media screen and (max-width: 379px){
     
