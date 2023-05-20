@@ -47,6 +47,12 @@
     font-size: 18px;
 }
 
+.contenedor {
+    position: relative;
+    justify-content: center;
+    width: 86%;
+    margin-left: 94px;
+}
 
 @media screen and (max-width: 379px){
     
@@ -72,7 +78,7 @@
     }
 
     .posicionTarjetas{
-        width: 60%;
+        width: 70%;
         padding: 1.3rem 0.7rem 1rem 0.7rem;
         margin-bottom: .5rem;
     }
