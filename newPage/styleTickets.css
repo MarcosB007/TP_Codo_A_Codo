@@ -15,13 +15,13 @@
 }
 
 .posicionTarjetas{
-    width: 17%;
+    width: 22%;
     padding: 1.3rem 0.7rem 1rem 0.7rem;
     margin-right: .5rem;
 }
 
 .letraPequeña{
-    font-size: 13px;
+    font-size: 15px;
     color: grey;
 }
 
