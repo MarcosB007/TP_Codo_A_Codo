@@ -56,6 +56,15 @@
 
 .btnsBorrarResumen {
     width: 48.5%;
+    background-color: rgb(141, 193, 78);
+    border: 0;
+}
+
+.totalAPagar{
+    background-color: rgb(184, 228, 255);
+    border-radius: 5px;
+    font-size: 17px;
+    padding: 1em;
 }
 
 @media screen and (max-width: 379px){
