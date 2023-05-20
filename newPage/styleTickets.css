@@ -54,6 +54,10 @@
     margin-left: 94px;
 }
 
+.btnsBorrarResumen {
+    width: 48.5%;
+}
+
 @media screen and (max-width: 379px){
     
     #posDiv{
@@ -66,6 +70,12 @@
         width: 60%;
         padding: 1.3rem 0.7rem 1rem 0.7rem;
         margin-bottom: .5rem;
+    }
+
+    .contenedor {
+        position: relative;
+        width: 86%;
+        margin-left: 20px;
     }
 }
 
@@ -81,5 +91,11 @@
         width: 70%;
         padding: 1.3rem 0.7rem 1rem 0.7rem;
         margin-bottom: .5rem;
+    }
+
+    .contenedor {
+        position: relative;
+        width: 86%;
+        margin-left: 20px;
     }
 }
