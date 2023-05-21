@@ -29,6 +29,7 @@ function limpiarCampos(){
     document.getElementById('correo').value = "";
     document.getElementById('valor').value = "";
     document.getElementById('categoria').value = "1";
+    document.getElementById('total').innerText = "Total a Pagar: $";
 }
 
 const btnResumenClick = document.getElementById('botonResumen');
