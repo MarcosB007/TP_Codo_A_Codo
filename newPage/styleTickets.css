@@ -60,6 +60,10 @@
     border: 0;
 }
 
+.btnsBorrarResumen:hover{
+    background-color: rgb(99, 170, 12);
+}
+
 .totalAPagar{
     background-color: rgb(184, 228, 255);
     border-radius: 5px;
