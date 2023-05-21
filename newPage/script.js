@@ -23,7 +23,16 @@ function calcular(){
     document.getElementById('total').innerHTML = "Total a Pagar: $" + pago;
 }
 
-
+function limpiarCampos(){
+    document.getElementById('nombre').value = "";
+    document.getElementById('apellido').value = "";
+    document.getElementById('correo').value = "";
+    document.getElementById('valor').value = "";
+    document.getElementById('categoria').value = "1";
+}
 
 const btnResumenClick = document.getElementById('botonResumen');
 btnResumenClick.addEventListener("click",calcular);
+
+const btnLimpiarClick = document.getElementById('botonLimpiar');
+btnLimpiarClick.addEventListener("click",limpiarCampos);
